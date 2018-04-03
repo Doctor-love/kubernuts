@@ -15,7 +15,7 @@
 
 
 ### Pod
-##### Presenter: Joli
+##### Presenter: JL
 
 #### Notes
 - each container has own fs, user, ... namspace except network
@@ -26,7 +26,7 @@
 
 
 ### Sidecar
-##### Presenter: ???
+##### Presenter: MH
 
 #### Notes
 - adasd
