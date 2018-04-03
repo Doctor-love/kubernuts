@@ -184,8 +184,18 @@
 - ....
 
 
+### Resource limits
+##### Presenter: MW
+
+#### Notes
+- ...
+
+#### Questions
+- ....
+
+
 ### Probe
-##### Presenter: ???
+##### Presenter: MW
 
 #### Notes
 - liveness
