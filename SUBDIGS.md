@@ -15,7 +15,7 @@
 
 
 ### Pod
-##### Presenter: ???
+##### Presenter: Joli
 
 #### Notes
 - each container has own fs, user, ... namspace except network
